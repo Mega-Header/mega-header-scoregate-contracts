@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-87 -->
 - #87: #37 — Signer Grace Period Update Desynchronizes Active Timers
+
+<!-- handsoff-issue-88 -->
+- #88: #38 — Incomplete Coordinate Validation in Public Key Format Validation
