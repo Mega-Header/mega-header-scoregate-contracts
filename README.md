@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-86 -->
 - #86: #36 — Missing Range Validation on Historical Ring Buffer Depth in set_history_max_depth
+
+<!-- handsoff-issue-87 -->
+- #87: #37 — Signer Grace Period Update Desynchronizes Active Timers
