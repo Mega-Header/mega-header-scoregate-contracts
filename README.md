@@ -841,3 +841,12 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-67 -->
 - #67: #17 — Revoke All Embargoes Panics in Single-Admin Mode
+
+## Resolved Issues
+
+The following issues have been addressed in this release:
+
+- Added issue templates for bug reports and feature requests
+- Added contributing guidelines and CODEOWNERS
+- Improved repository documentation and onboarding
+
